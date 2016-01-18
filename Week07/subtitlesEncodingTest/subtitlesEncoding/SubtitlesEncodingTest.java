@@ -1,6 +1,5 @@
 package subtitlesEncoding;
 
-import static org.junit.Assert.fail;
 
 import java.io.BufferedWriter;
 import java.io.File;
